@@ -1,6 +1,6 @@
 /// @description move 
 
-mySpeed=10
+mySpeed=20
 
 if keyboard_check(ord("W"))
 {

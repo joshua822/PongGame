@@ -1,6 +1,6 @@
 /// @description Move player 2 paddle
 
-mySpeed=10
+mySpeed=20
 
 if keyboard_check(vk_up)
 {

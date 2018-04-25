@@ -12,3 +12,7 @@ draw_text(500,300,"Player 2 Wins");
 draw_set_color(c_white);
 draw_set_font(fntMain2);
 draw_text(500,350,"Click Space To Restart");
+
+draw_set_color(c_white);
+draw_set_font(fntMain2);
+draw_text(500,400,"Click Esc To Quit");
