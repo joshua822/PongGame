@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "2fe35b30-c2dc-4b09-82c1-b61a2c913641",
+            "Value": {
+                "id": "704560b0-30a9-4dc6-8b71-ed59cb099ba2",
+                "resourcePath": "sounds\\sndbeep13\\sndbeep13.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "53fdcbdf-4758-4eec-88df-4ad604357e80",
             "Value": {
                 "id": "6b91a973-09db-497a-8a94-902afb72e4b0",
@@ -247,6 +255,14 @@
             }
         },
         {
+            "Key": "c21cc23b-1dc2-4293-8962-4ca3de9b0362",
+            "Value": {
+                "id": "a9e3b79f-4da9-4a2d-9da0-f4ad73e3a942",
+                "resourcePath": "objects\\objSound\\objSound.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c3230953-2a08-4acb-8ac4-6de3da13364d",
             "Value": {
                 "id": "6963a2bd-35a1-4ce9-913d-491468f1518e",
@@ -258,7 +274,7 @@
             "Key": "c96c3417-3f7c-4fc0-8ab9-c9d197b5214c",
             "Value": {
                 "id": "71935f66-1cf9-465e-a812-2865301179d5",
-                "resourcePath": "sounds\\sndDeep12\\sndDeep12.yy",
+                "resourcePath": "sounds\\sndbeep12\\sndbeep12.yy",
                 "resourceType": "GMSound"
             }
         },

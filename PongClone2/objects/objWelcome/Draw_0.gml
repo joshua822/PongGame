@@ -16,4 +16,3 @@ draw_set_color(c_blue);
 draw_set_font(fntMain2);
 draw_text(500,400,"Click Esc To Quit");
 
-audio_play_sound(sndDeep12, 2, true)
